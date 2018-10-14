@@ -1,0 +1,29 @@
+.bodytext {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+.km {
+display: none;
+color: #00f
+}
+.mi {
+display: inline;
+color: #000
+}
+.control  {
+ font: bold 11px arial;
+ font-weight: bold;
+ background-color:#eee;
+}
+.route1  {
+ font: 10px arial;
+ background-color:#ddd;
+}
+.route2  {
+ font: bold 10px arial;
+ background-color:#ccc;
+}
+
+
+a:hover {
+  cursor: pointer;
+}
